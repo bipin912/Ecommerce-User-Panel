@@ -1,16 +1,3 @@
 # e_com
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2024-06-01-23-49-36-881_com example e_com](https://github.com/bipin912/Ecommerce-User-Panel/assets/59283108/cbe8afa5-5ca9-4402-a836-7e0a0113ab3e)
